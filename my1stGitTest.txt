@@ -1,2 +1,4 @@
 my1st...
 dd
+
+after committing, content is changed
